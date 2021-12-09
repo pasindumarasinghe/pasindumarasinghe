@@ -8,10 +8,12 @@ I'm Pasindu Marasinghe, a Computer Engineering undergraduate at the University o
 
 
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pasindumarasinghe&hide_border=true&theme=redical)
+![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pasindumarasinghe&hide_border=true&theme=redical)
+
+
 
 [www.pasindumarasinghe.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
-## Get in touch
+## Get in touch 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:e17207@eng.pdn.ac.lk)  
