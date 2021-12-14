@@ -14,6 +14,7 @@ I'm Pasindu Marasinghe, a Computer Engineering undergraduate at the University o
 
 ## Get in touch ☎
 
-[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:e17207@eng.pdn.ac.lk)  
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:e17207@eng.pdn.ac.lk)
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](linkedin.com/in/pasindu-marasinghe)
 
 [www.pasindumarasinghe.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
