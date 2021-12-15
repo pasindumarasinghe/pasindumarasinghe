@@ -4,8 +4,7 @@ I'm Pasindu Marasinghe, a Computer Engineering undergraduate at the University o
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pasindumarasinghe&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindumarasinghe&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindumarasinghe&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## My contributions 🎈
@@ -16,5 +15,6 @@ I'm Pasindu Marasinghe, a Computer Engineering undergraduate at the University o
 
 [<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:e17207@eng.pdn.ac.lk)
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](linkedin.com/in/pasindu-marasinghe)
+[<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>](https://t.me/pasindugm)
 
 [www.pasindumarasinghe.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
