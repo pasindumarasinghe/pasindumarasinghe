@@ -12,5 +12,5 @@ I'm Pasindu Marasinghe, a Computer Engineering undergraduate at the University o
 
 ## Contact me ☎
 
-[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:pasindugayanthe@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:pasindugm@duck.com)
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://linkedin.com/in/pasindu-marasinghe)
