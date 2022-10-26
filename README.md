@@ -2,7 +2,7 @@
 
 I'm Pasindu Marasinghe, a Computer Engineering undergraduate at the University of Peradeniya, Sri Lanka.
 
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pasindumarasinghe&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pasindumarasinghe&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindumarasinghe&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
